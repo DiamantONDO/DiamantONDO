@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12372A,100:436850&height=200&section=header&text=Anthony%20ONDO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12372A,100:436850&height=200&section=header&text=Diamant%20Anthony%20ONDO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=16" width="100%" />
 
   <h3>Building useful software. Solving real problems.</h3>
 
@@ -24,7 +24,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Anthony ONDO**, a Software Engineering student and aspiring
+Hi, I'm **Diamant Anthony ONDO**, a Software Engineering student and aspiring
 software engineer passionate about building practical, reliable, and
 user-focused applications.
 
