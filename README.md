@@ -1,166 +1,201 @@
-Here is your updated `README.md` with all requested edits applied:
+<!--
+    Anthony | Software Engineer
+    GitHub Profile README
+-->
 
-```markdown
+<div align="center">
 
-```
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:12372A,100:436850&height=200&section=header&text=Anthony%20ONDO&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=60&descSize=16" width="100%" />
 
-# Hi, I'm Diamant ONDO 👋
+  <h3>Building useful software. Solving real problems.</h3>
 
-### Software Engineer | Backend and Full-Stack Developer | Problem Solver
+  <p>
+    <a href="https://home.terrenode.com/">
+      <img src="https://img.shields.io/badge/Portfolio-home.terrenode.com-436850?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/DiamantONDO">
+      <img src="https://img.shields.io/badge/GitHub-DiamantONDO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
 
-[
-
-](https://home.terrenode.com/)
-
----
-
-## 👨‍💻 Who am I?
-
-I'm **Diamant ONDO**, a Software Engineering student and aspiring Software Engineer
-based in Kigali, Rwanda.
-
-I enjoy turning real-world problems into practical software solutions. My interests
-span backend development, full-stack applications, APIs, databases, software
-architecture, and building systems that are reliable and useful.
-
-I'm particularly interested in **Java, Python, JavaScript/TypeScript, backend
-engineering, and modern web technologies**.
-
-> I don't just want to write code — I want to understand the problem behind it,
-> design the right solution, and build software that makes sense.
+</div>
 
 ---
 
-## 🧑‍💻 What I'm doing now
+## 👋 About Me
 
-🎓 **Software Engineering Student**
+Hi, I'm **Anthony ONDO**, a Software Engineering student and aspiring
+software engineer passionate about building practical, reliable, and
+user-focused applications.
 
-📍 Kigali, Rwanda
+My journey combines academic knowledge with hands-on software development.
+I've worked on projects involving web applications, database-driven systems,
+business management solutions, and API integration.
 
-💼 **Software Engineering Intern at [Comprehensive Staffing Resources Limited](https://csrlimited.com/) / Junior Software Engineer**
+I'm particularly interested in **backend development, software architecture,
+database design, and full-stack engineering**. I enjoy understanding how
+systems work behind the scenes and turning ideas into functional software.
 
-🚀 Currently focusing on:
+I also gained professional experience through an **internship at
+Comprehensive Staffing Resources Limited (CSR)**, where I had the opportunity
+to work in a professional software engineering environment and strengthen my
+practical development skills.
 
-* Backend development and REST APIs
-* Full-stack web applications
-* Database design and management
-* Software architecture and clean code
-* Testing and debugging
-* Docker and deployment
-* Building practical software solutions
+Currently, I'm focused on strengthening my engineering skills, improving the
+quality of my projects, and building solutions that address real-world needs.
 
-I'm continuously improving my engineering skills through academic projects,
-professional experience, and personal development.
+🌍 Based in Kigali, Rwanda  
+💻 Interested in backend and full-stack development  
+🌱 Always learning, building, and improving
+
+---
+
+## 💼 Professional Experience
+
+### Comprehensive Staffing Resources Limited (CSR)
+
+**Software Engineering Intern**
+
+During my internship at **Comprehensive Staffing Resources Limited**, I
+gained hands-on experience in a professional software development environment,
+working with modern development practices and technologies.
+
+The experience allowed me to strengthen my understanding of software
+development workflows, backend systems, APIs, databases, deployment, and
+collaboration within a development team.
+
+🌐 [csrlimited.com](https://csrlimited.com/)
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the projects that represent my development journey and
+the types of problems I'm interested in solving.
+
+### 🎓 Student Registration System
+
+An academic management application designed to support student registration
+and the organization of student information.
+
+**Focus areas:** CRUD operations · Database design · Validation
+
+### 📦 Advanced Stock Management System
+
+An inventory management solution focused on organizing stock information
+and supporting inventory-related operations.
+
+**Focus areas:** Inventory management · Data consistency · Database operations
+
+### 🚗 IKAZE Car Rental System
+
+A car rental application designed to organize vehicle and rental-related
+information and streamline rental management workflows.
+
+**Focus areas:** Business workflows · Database management · Application design
+
+### 🏫 School Portal and E-Learning Platform
+
+A web development project involving school-related functionality and
+frontend/backend integration.
+
+**Focus areas:** Web development · API integration · Authentication
+
+### 🌐 Terrenode
+
+My personal web presence and an ongoing space for my software development
+journey.
+
+🌐 **Explore:** [home.terrenode.com](https://home.terrenode.com/)
 
 ---
 
 ## 🛠️ Technologies and Tools
 
+The tools I use depend on the project, and I'm continuously expanding my
+technical toolbox.
+
 ### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
 
 ### Backend and Web
 
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
 ### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
 
 ### DevOps and Tools
 
----
-
-## 🚀 Projects I've Worked On
-
-### 🏫 School Portal / E-Learning Platform
-
-A web-based platform designed to support school and learning-related activities.
-
-**Focus:**
-
-`Django` · `REST APIs` · `PostgreSQL` · `JWT Authentication` · `React/Next.js`
-
-Worked with authentication, role-based access, school-related data,
-API development, and frontend/backend integration.
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Dokploy-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Dokploy"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+</p>
 
 ---
 
-### 🚗 IKAZE Car Rental System
+## 🎯 What I'm Working Toward
 
-A car rental management application designed to manage vehicles,
-customers, rentals, and related operations.
-
-**Focus:**
-
-`Java` · `Database Development` · `Software Design` · `CRUD`
-
-The project helped me strengthen my understanding of object-oriented
-programming, database integration, and software architecture.
+- Writing clean, maintainable, and well-structured code.
+- Designing reliable backend services and APIs.
+- Building practical full-stack applications.
+- Improving my understanding of software architecture and system design.
+- Deploying and maintaining applications in real environments.
+- Collaborating with other developers and learning from real-world projects.
 
 ---
 
-### 📦 Advanced Stock Management System
+## 🤝 Let's Connect
 
-A system designed to manage inventory, products, stock movements,
-and business operations.
+I'm always happy to connect with fellow developers, exchange ideas,
+learn from other engineers, and explore opportunities to build useful software.
 
-**Focus:**
+<div align="center">
 
-`Java` · `Database` · `Software Engineering`
+  <a href="https://home.terrenode.com/">
+    <img src="https://img.shields.io/badge/🌐_Personal_Website-Visit_My_Portfolio-436850?style=for-the-badge" alt="Personal Website"/>
+  </a>
 
----
+  <br/><br/>
 
-### 👨‍🎓 Student Registration System
+  <a href="mailto:anthodidiams@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anthodidiams%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-A university-oriented application for managing student registration
-and academic information.
+  <a href="https://github.com/DiamantONDO">
+    <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-**Focus:**
-
-`Java` · `Database Development` · `Authentication` · `Session Management`
-
----
-
-## 🌱 Currently Learning
-
-I'm continuously expanding my knowledge in:
-
-* ☁️ Cloud and deployment
-* 🐳 Docker and containerization
-* 🏗️ Software architecture
-* 🔐 Software security
-* 🧪 Software testing
-* ⚡ Distributed systems
-* 🤖 AI-powered applications
-* 📊 Data and backend engineering
+</div>
 
 ---
 
-## 🎯 My Engineering Philosophy
+<div align="center">
 
-> **Understand the problem. Design the solution. Build it well. Improve it continuously.**
+  *Learning continuously. Building thoughtfully. Improving with every project.*
 
-I believe good software engineering is not only about writing code.
-It's about understanding users, designing maintainable systems, testing
-solutions properly, and continuously learning.
+  **Thanks for visiting my profile!** ⭐
 
----
-
-## 📫 Let's Connect
-
-I'm always interested in connecting with developers, engineers,
-students, and people working on interesting technology projects.
-
-[
-
-](https://home.terrenode.com/)
-
-[
-
-](https://github.com/DiamantONDO)
-
-[
-
-](mailto:anthodidiams@gmail.com)
-
-**Let's build something meaningful. 🚀**
-
-```
-
-```
+</div>
