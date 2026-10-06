@@ -28,13 +28,12 @@ Hi, I'm **Anthony ONDO**, a Software Engineering student and aspiring
 software engineer passionate about building practical, reliable, and
 user-focused applications.
 
-My journey combines academic knowledge with hands-on software development.
-I've worked on projects involving web applications, database-driven systems,
-business management solutions, and API integration.
+I'm particularly interested in:
 
-I'm particularly interested in **backend development, software architecture,
-database design, and full-stack engineering**. I enjoy understanding how
-systems work behind the scenes and turning ideas into functional software.
+- 💻 **Backend Development**
+- 🏗️ **Software Architecture**
+- 🗄️ **Database Design**
+- 🌐 **Full-Stack Engineering**
 
 I also gained professional experience through an **internship at
 Comprehensive Staffing Resources Limited (CSR)**, where I had the opportunity
