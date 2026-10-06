@@ -71,33 +71,58 @@ collaboration within a development team.
 ## 🚀 Featured Projects
 
 Here are some of the projects that represent my development journey and
-the types of problems I'm interested in solving.
+my experience building practical software solutions.
 
-### 🎓 Student Registration System
+### 🎓 School Practice
 
-An academic management application designed to support student registration
-and the organization of student information.
+A school management platform designed to support essential academic
+activities, including **assignments, quizzes, and student attendance**.
+The system helps organize learning activities and provides a centralized
+way to manage student academic participation.
 
-**Focus areas:** CRUD operations · Database design · Validation
+🔗 [View on GitHub](https://github.com/DiamantONDO/school-portal-practicejs)
 
-### 📦 Advanced Stock Management System
+**Focus areas:** Academic management · Assignments · Quizzes · Attendance · Web development
 
-An inventory management solution focused on organizing stock information
-and supporting inventory-related operations.
+### 🎓 IKAZE Scholarship API
 
-**Focus areas:** Inventory management · Data consistency · Database operations
+A **Spring Boot backend** for the IKAZE Scholarship platform, a system
+that connects Rwandan students with sponsors offering scholarship funding.
+This repository contains the **REST API and MongoDB data layer** that
+support the platform's core functionality.
 
-### 🚗 IKAZE Car Rental System
+🔗 [View on GitHub](https://github.com/DiamantONDO/Ikaze-Scholarship-API)
 
-A car rental application designed to organize vehicle and rental-related
-information and streamline rental management workflows.
+**Focus areas:** Spring Boot · REST API · MongoDB · Backend development · API design
 
-**Focus areas:** Business workflows · Database management · Application design
+### 🌐 IKAZE Scholarship Web App
 
-### 🏫 School Portal and E-Learning Platform
+A full-stack scholarship management platform that connects **Rwandan
+students with sponsors offering funding opportunities**.
 
-A web development project involving school-related functionality and
-frontend/backend integration.
+Students can browse and apply for scholarships, sponsors can post
+opportunities and review applications, while an administrator oversees
+the entire process.
+
+🔗 [View on GitHub](https://github.com/DiamantONDO/Ikaze-Scholarship-Web)
+
+**Focus areas:** Full-stack development · Scholarship management ·
+Authentication · Application workflows · Role-based functionality
+
+### ☕ IKAZE Scholarship with RMI Implementation
+
+A Java-based implementation of the IKAZE Scholarship platform using
+**Java Remote Method Invocation (RMI)**.
+
+This project demonstrates my understanding of **Java distributed
+systems**, including remote object communication, client-server
+architecture, interfaces, and the development of distributed
+applications using Java.
+
+🔗 [View on GitHub](https://github.com/DiamantONDO/Ikaze-Scholarship-with-RMI-Implementation)
+
+**Focus areas:** Java · RMI · Distributed systems · Client-server
+architecture · Object-oriented programming
 
 **Focus areas:** Web development · API integration · Authentication
 
